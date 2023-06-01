@@ -1,11 +1,16 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 c
 =======
 echo "ALX school"
 >>>>>>> update_script
 root@2448e1a540f1:/alx-pre_course/0x01-git/bash# cat > school
+=======
+echo "ALX school"
+
+>>>>>>> feadcc63f74f904d1acc17b5d2dae9ee338fd086
 
 
 
